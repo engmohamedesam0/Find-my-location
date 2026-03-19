@@ -1,4 +1,3 @@
-# find my location
 <!DOCTYPE html>
 <html lang="en">
 <head>
